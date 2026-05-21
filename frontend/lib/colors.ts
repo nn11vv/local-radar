@@ -1,0 +1,15 @@
+export const C = {
+  bg: "#080810",
+  card: "#0f0f1a",
+  border: "#1a1a2e",
+  text: "#ffffff",
+  textMuted: "#8888aa",
+  neonGreen: "#00ff88",
+  neonCyan: "#00d4ff",
+  neonOrange: "#ff6b35",
+  neonMagenta: "#ff0099",
+  gradientPrimary: "linear-gradient(135deg, #00ff88, #00d4ff)",
+  gradientSecondary: "linear-gradient(135deg, #ff6b35, #ff0099)",
+  glowGreen: "0 0 20px rgba(0, 255, 136, 0.35)",
+  glowOrange: "0 0 20px rgba(255, 107, 53, 0.35)",
+} as const;
